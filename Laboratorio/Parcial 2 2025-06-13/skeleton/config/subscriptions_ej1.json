@@ -1,0 +1,13 @@
+[
+    {
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "urlType": "rss",
+        "content": "True" 
+    },
+    {
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "urlType": "rss",
+        "content": "False"
+    }
+
+]

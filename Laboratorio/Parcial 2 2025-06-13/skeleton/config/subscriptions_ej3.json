@@ -1,0 +1,10 @@
+[
+    {
+        "url": "localhost/book_feed.xml",
+        "urlType": "atom"
+    },
+    {
+        "url": "localhost/cs.xml",
+        "urlType": "atom"
+    }
+]

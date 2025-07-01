@@ -1,0 +1,27 @@
+<feed>
+  <entry>
+    <id>oai:arXiv.org:2506.06282v1</id>
+    <title>Understanding Financial Reasoning in AI: A Multimodal Benchmark and Error Learning Approach</title>
+    <updated>2025-06-11T01:34:17.392181+00:00</updated>
+    <link>https://arxiv.org/abs/2506.06282</link>
+    <summary>Abstract: Effective financial reasoning demands not only textual understanding but also the ability to interpret complex visual data such as charts, tables, and trend graphs. This paper introduces a new benchmark designed to evaluate how well AI models - especially large language and multimodal models - reason in finance-specific contexts. Covering 3,200 expert-level question-answer pairs across 15 core financial topics, the benchmark integrates both textual and visual modalities to reflect authentic analytical challenges in finance. To address limitations in current reasoning approaches, we propose an error-aware learning framework that leverages historical model mistakes and feedback to guide inference, without requiring fine-tuning. Our experiments across state-of-the-art models show that multimodal inputs significantly enhance performance and that incorporating error feedback leads to consistent and measurable improvements. The results highlight persistent challenges in visual understanding and mathematical logic, while also demonstrating the promise of self-reflective reasoning in financial AI systems. Our code and data can be found at https://anonymous/FinMR/CodeData.</summary>
+    <published>2025-06-10T00:00:00-04:00</published>
+  </entry>
+<entry>
+    <id>oai:arXiv.org:2506.06283v1</id>
+    <title>Facial Foundational Model Advances Early Warning of Coronary Artery Disease from Live Videos with DigitalShadow</title>
+    <updated>2025-03-11T01:34:17.392013+00:00</updated>
+    <link> https://arxiv.org/abs/2506.06283</link>
+    <summary>Abstract: Global population aging presents increasing challenges to healthcare systems, with coronary artery disease (CAD) responsible for approximately 17.8 million deaths annually, making it a leading cause of global mortality. As CAD is largely preventable, early detection and proactive management are essential. In this work, we introduce DigitalShadow, an advanced early warning system for CAD, powered by a fine-tuned facial foundation model. The system is pre-trained on 21 million facial images and subsequently fine-tuned into LiveCAD, a specialized CAD risk assessment model trained on 7,004 facial images from 1,751 subjects across four hospitals in China. DigitalShadow functions passively and contactlessly, extracting facial features from live video streams without requiring active user engagement. Integrated with a personalized database, it generates natural language risk reports and individualized health recommendations. With privacy as a core design principle, DigitalShadow supports local deployment to ensure secure handling of user data.</summary>
+<published>2025-02-10T00:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>oai:arXiv.org:2506.06284v1</id>
+    <title>Unreal Patterns</title>
+    <updated>2025-06-11T01:34:17.392013+00:00</updated>
+    <link> https://arxiv.org/abs/2506.06284 </link>
+    <summary>arXiv:2506.06284v1 Announce Type: new 
+Abstract: This paper introduces a framework for representing information about entities that do not exist or may never exist, such as those involving fictional entities, blueprints, simulations, and future scenarios. Traditional approaches that introduce "dummy instances" or rely on modal logic are criticized, and a proposal is defended in which such cases are modeled using the intersections of actual types rather than specific non existent tokens. The paper positions itself within the Basic Formal Ontology and its realist commitments, emphasizing the importance of practical, implementable solutions over purely metaphysical or philosophical proposals, arguing that existing approaches to non existent entities either overcommit to metaphysical assumptions or introduce computational inefficiencies that hinder applications. By developing a structured ontology driven approach to unreal patterns, the paper aims to provide a useful and computationally viable means of handling references to hypothetical or non existent entities.</summary>
+    <published>2025-06-10T00:00:00-04:00</published>
+  </entry>
+</feed>
