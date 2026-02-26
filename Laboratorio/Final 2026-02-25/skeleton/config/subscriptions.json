@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "urlType": "rss"
+    },
+    {
+        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "urlType": "rss"
+    },
+    {
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "urlType": "rss"
+    }
+]
